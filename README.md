@@ -4,7 +4,7 @@ This will be a three- or four-part workshop geared towards graduate students who
 
 This workshop will focus on the fundamentals of programming in the Python language, with an emphasis on: 
 
- * reading from CSV files and writing data to CSV files in ways that can be easily analyzed by data-analysis software
+ * reading from CSV files and writing data to CSV files in ways that can be easily analyzed
  * finding, downloading, importing, and using existing libraries of code 
  * possibly extracting data from APIs, but this may depend on how quickly we get through other topics
 

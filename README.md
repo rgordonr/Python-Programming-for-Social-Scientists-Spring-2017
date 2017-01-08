@@ -6,7 +6,7 @@ Although we will only cover the basics of Python, this course should provide a s
 
 This workshop will focus on the fundamentals of programming in the Python language, with an emphasis on: 
 
- * reading and writing data to CSV files
+ * reading from CSV files and writing data to CSV files in ways that can be easily analyzed by data-analysis software
  * finding, downloading, importing, and using existing libraries of code 
  * possibly extracting data from APIs, but this may change depending on students' interests
 

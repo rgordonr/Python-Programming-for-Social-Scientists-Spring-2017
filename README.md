@@ -10,6 +10,6 @@ This workshop will focus on the fundamentals of programming in the Python langua
  * finding, downloading, importing, and using existing libraries of code 
  * possibly extracting data from APIs, but this may depend on how quickly we get through other topics
 
-This workshop will have in-class exercises but no grades or required homework. Each class will be roughly an hour and a half long, and classes will be held on a bi-weekly basis. The exact time will be adjusted to best fit everyone's schedules.
+This workshop will have in-class exercises but no grades or required homework. Each class will be roughly an hour and a half long, and classes will be held on a bi-weekly basis. The exact time will be adjusted to best fit everyone's schedules. The content I hope to cover in our first class can be found in the file "Day One.ipynb".
 
 This workshop is targeted at graduate students with little to no programming experience.
